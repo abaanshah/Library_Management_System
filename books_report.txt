@@ -1,0 +1,143 @@
+
+-----------BOOKS RECORD-----------
+
+Book ID: 101
+Book Name: HarryPotter
+Author Name: Rowling
+Category: Fantasy
+Quantity: 5
+Availability: 1
+
+Book ID: 102
+Book Name: AtomicHabits
+Author Name: JamesClear
+Category: SelfHelp
+Quantity: 8
+Availability: 1
+
+Book ID: 104
+Book Name: Alchemist
+Author Name: PauloCoelho
+Category: Fiction
+Quantity: 0
+Availability: 0
+
+Book ID: 105
+Book Name: DSAinC
+Author Name: Karumanchi
+Category: Education
+Quantity: 10
+Availability: 1
+
+Book ID: 106
+Book Name: RichDadPoorDad
+Author Name: Kiyosaki
+Category: Finance
+Quantity: 0
+Availability: 0
+
+Book ID: 107
+Book Name: DeepWork
+Author Name: CalNewport
+Category: Productivity
+Quantity: 3
+Availability: 1
+
+Book ID: 108
+Book Name: CProgramming
+Author Name: DennisRitchie
+Category: Programming
+Quantity: 6
+Availability: 1
+
+Book ID: 109
+Book Name: ZeroToOne
+Author Name: PeterThiel
+Category: Startup
+Quantity: 2
+Availability: 1
+
+Book ID: 110
+Book Name: ThinkAndGrowRich
+Author Name: NapoleonHill
+Category: Motivation
+Quantity: 1
+Availability: 1
+
+Book ID: 111
+Book Name: Ikigai
+Author Name: HectorGarcia
+Category: SelfHelp
+Quantity: 7
+Availability: 1
+
+Book ID: 112
+Book Name: PsychologyMoney
+Author Name: MorganHousel
+Category: Finance
+Quantity: 5
+Availability: 1
+
+Book ID: 113
+Book Name: Algorithms
+Author Name: CLRS
+Category: Education
+Quantity: 9
+Availability: 1
+
+Book ID: 114
+Book Name: WingsOfFire
+Author Name: AbdulKalam
+Category: Biography
+Quantity: 4
+Availability: 1
+
+Book ID: 115
+Book Name: JavaBasics
+Author Name: HerbertSchildt
+Category: Programming
+Quantity: 2
+Availability: 1
+
+Book ID: 116
+Book Name: PowerHabit
+Author Name: CharlesDuhigg
+Category: Productivity
+Quantity: 0
+Availability: 0
+
+Book ID: 117
+Book Name: AIRevolution
+Author Name: AndrewNg
+Category: Technology
+Quantity: 6
+Availability: 1
+
+Book ID: 118
+Book Name: StartWithWhy
+Author Name: SimonSinek
+Category: Leadership
+Quantity: 3
+Availability: 1
+
+Book ID: 119
+Book Name: LinuxBasics
+Author Name: Torvalds
+Category: Technology
+Quantity: 5
+Availability: 1
+
+Book ID: 120
+Book Name: Networking
+Author Name: KuroseRoss
+Category: Education
+Quantity: 8
+Availability: 1
+
+Book ID: 121
+Book Name: ReactGuide
+Author Name: Maximilian
+Category: Web
+Quantity: 8
+Availability: 1
+
